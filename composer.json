@@ -1,0 +1,12 @@
+{
+
+    "require": {
+        "facebook/php-sdk": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/facebook/facebook-php-sdk.git"
+        }
+    ]
+}
