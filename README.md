@@ -17,8 +17,8 @@ A Facebook app, register it at developer.facebook.com
 
 2. Make sure the directory is writable be www-data user
 
-``sudo chmod -R g+w /var/www/facebook
-``sudo chown -R www-data: /var/www/facebook
+```sudo chmod -R g+w /var/www/facebook```
+```sudo chown -R www-data: /var/www/facebook```
 
 3. Run ``sudo composer install`` to get facebook php sdk
 
