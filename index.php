@@ -16,7 +16,7 @@ if($use_ftp){
   $ftp_directory = "./security/video/grabs/";
   $ftp_username  = 'security';
   $ftp_password  = 'password';
-  $ftp_host      = '10.239.149.102;
+  $ftp_host      = '10.239.149.102';
 
   // connect
   $conn = ftp_connect($ftp_host);
